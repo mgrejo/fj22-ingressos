@@ -29,7 +29,7 @@ public class DescontoTest {
 		Assert.assertEquals(precoEsperado, ingresso.getPreco());
 		
 	} */
-	
+	String getDescricao();
 	@Test
 	public void deveConcederDescontoDe50PorcentoParaIngressosDeEstudante() {
 		
